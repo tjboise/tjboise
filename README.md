@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Tianjie Zhang, a PhD student in department of computer science, Boise State University.
-- 👀 I’m interested in data science, transportation, image processing. 
+- 👋 Hi, I’m **Tianjie Zhang**, a PhD student in department of computer science, **Boise State University**.
+- 👀 I’m interested in **data science**, transportation, image processing. 
 - 🌱 Also like hiking, watching videos, play games...
 - 📫 contacts:
      - Email: tjzhang@u.boisestate.edu
