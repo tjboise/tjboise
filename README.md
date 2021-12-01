@@ -1,10 +1,13 @@
-- 👋 Hi, I’m **Tianjie Zhang**, a PhD student in department of computer science, **Boise State University**.
-- 👀 I’m interested in **data science**, transportation, image processing. 
-- 🌱 Also like hiking, watching videos, play games...
+## Hi there, I am an PhD student at Boise State University majoring in Data Science and transportation.
+
+
+- 👋 I’m **Tianjie Zhang**, a PhD student in department of computer science, **Boise State University**.
+- 👀 My interests are in **statistics, data science**, Machine Learning, transportation engineering, image processing. Also like hiking, watching videos, music, games... 
+- 🌱 I’m currently looking for Data Scientist/Machine Learning Internship.
 - 📫 contacts:
      - Email: tjzhang@u.boisestate.edu
      - Mobile Phone: (208)807-8072
-     - Linkedin: https://www.linkedin.com/in/tianjie-zhang-a8b921224/
+     - [Linkedin](https://www.linkedin.com/in/tianjie-zhang-a8b921224/)
 
 
 <!---
