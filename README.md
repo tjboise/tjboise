@@ -6,7 +6,7 @@
 - 🌱 I’m currently looking for Data Scientist/Machine Learning Internship.
 - 📫 contacts:
      - Email: tjzhang@u.boisestate.edu
-     - Mobile Phone: (208)807-8072
+     - Mobile Phone: (986)888-2443
      - [🌎Linkedin](https://www.linkedin.com/in/tianjie-zhang-a8b921224/)
      - [resume](https://tianjiezhang1993.github.io/resume/)
 
