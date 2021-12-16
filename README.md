@@ -7,7 +7,7 @@
 - 📫 Contacts:
      - Email: tjzhang@u.boisestate.edu
      - Mobile Phone: (986)888-2443
-     - [🌎Linkedin](https://www.linkedin.com/in/tianjie-zhang-a8b921224/)
+     - [Linkedin](https://www.linkedin.com/in/tianjie-zhang-a8b921224/)
      - [resume](https://tianjiezhang1993.github.io/resume/)
 
 
