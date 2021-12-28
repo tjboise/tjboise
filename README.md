@@ -5,8 +5,6 @@
 - 👀 My interests are in **statistics, data science**, Machine Learning, transportation engineering, image processing. Also like hiking, watching videos, music, games... 
 - 🌱 I’m currently looking for Data Scientist/Machine Learning Internship.
 - 📫 Contacts:
-     - Email: tjzhang@u.boisestate.edu
-     - Mobile Phone: (986)888-2443
    
 <div align="center">
     <a href="https://tianjiezhang1993.github.io/resume/">
