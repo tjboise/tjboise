@@ -8,7 +8,7 @@
      - Email: tjzhang@u.boisestate.edu
      - Mobile Phone: (986)888-2443
    
-<div align="lcenter">
+<div align="center">
     <a href="https://tianjiezhang1993.github.io/resume/">
         <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-github.png" width="3%"/>
     </a>
