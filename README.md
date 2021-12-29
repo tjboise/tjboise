@@ -6,7 +6,7 @@
 - 🌱 I’m currently looking for Data Scientist/Machine Learning Internship.
 - 📫 Contacts:
    
-<div align="center">
+<div align="left">
     <a href="https://tianjiezhang1993.github.io/resume/">
         <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-github.png" width="3%"/>
     </a>
