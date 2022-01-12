@@ -1,4 +1,4 @@
-## Hi there, I am an PhD candidate at Boise State University majoring in Data Science and transportation.
+## Hi there, I am an PhD student at Boise State University majoring in Data Science and transportation.
 
 
 - 👋 I’m **Tianjie Zhang**, a PhD candidate in department of computer science, **Boise State University**.
