@@ -4,7 +4,7 @@
 - 👋 I’m **Tianjie Zhang**, a PhD candidate in department of computer science, **Boise State University**.
 - 👀 My interests are in **statistics, data science**, Machine Learning, transportation engineering, image processing. Also like hiking, watching videos, music, games... 
 - 🌱 I’m currently looking for Data Scientist/Machine Learning Internship.
-- 📫 Contacts:
+- 📫 Contacts: tjzhang@u.boisestate.edu
    
 <div align="left">
     <a href="https://tianjiezhang1993.github.io/resume/">
