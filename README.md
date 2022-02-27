@@ -6,7 +6,7 @@
 - 🌱 I’m currently looking for Data Scientist/Machine Learning Internship.
 - 📫 Contacts: tjzhang@u.boisestate.edu
    
-<div align="left">
+<div align="center">
     <a href="https://tianjiezhang1993.github.io/resume/">
         <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-github.png" width="3%"/>
     </a>
