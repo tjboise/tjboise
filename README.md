@@ -1,39 +1,21 @@
-## Hi there, I am an PhD candidate at Boise State University majoring in Data Science and transportation.
+<h1 align="center">Hi 👋, I'm Tianjie Zhang</h1>
 
+<h3 align="center">PhD candidate at Boise State University, Boise, ID, USA</h3>
 
 - 👋 I’m **Tianjie Zhang**, a PhD candidate in department of computer science, **Boise State University**.
 - 👀 My interests are in **statistics, data science**, Machine Learning, transportation engineering, image processing. Also like hiking, watching videos, music, games... 
 - 🌱 I’m currently looking for Data Scientist/Machine Learning Internship.
 - 📫 Contacts: tjzhang@u.boisestate.edu
-   
-<div align="center">
-    <a href="https://tianjiezhang1993.github.io/resume/">
-        <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-github.png" width="3%"/>
-    </a>
-    <img width="3%" />
-    <a href="https://www.linkedin.com/in/tianjie-zhang-a8b921224/">
-        <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-linkedin.png" width="3%"/>
-    <!--- </a>
-    <img width="3%" />
-    <a href="https://twitter.com/ultralytics">
-        <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-twitter.png" width="3%"/>
-    </a>
-    <img width="3%" />
-    <a href="https://youtube.com/ultralytics">
-        <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-youtube.png" width="3%"/>
-    </a>
-    <img width="3%" />
-    <a href="https://www.facebook.com/ultralytics">
-        <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-facebook.png" width="3%"/>
-    </a>
-    <img width="3%" />
-    <a href="https://www.instagram.com/ultralytics/">
-        <img src="https://github.com/ultralytics/yolov5/releases/download/v1.0/logo-social-instagram.png" width="3%"/>
-    </a> --->
-</div>
+
+Reach Me at
+<p align="center">
+<a href="https://www.linkedin.com/in/tianjie-zhang-a8b921224/"><img src="https://img.shields.io/badge/-Tianjie%20Zhang-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://tianjiezhang1993.github.io/resume/"><img src="https://img.shields.io/badge/-Tianjie%20Zhang-D14836?style=flat&logo=Github&logoColor=white"/></a>
+</p>
 
 
 <!---
 TianjieZhang1993/TianjieZhang1993 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
