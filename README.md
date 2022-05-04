@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tianjie Zhang</h1>
 
-<h3 align="center">PhD candidate at Boise State University, Boise, ID, USA</h3>
+<h3 align="center">PhD student at Boise State University, Boise, ID, USA</h3>
 
-- 👋 I’m **Tianjie Zhang**, a PhD candidate in department of computer science, **Boise State University**.
+- 👋 I’m **Tianjie Zhang**, a PhD student in department of computer science, **Boise State University**.
 - 👀 My interests are in **statistics, data science**, Machine Learning, transportation engineering, image processing. Also like hiking, watching videos, music, games... 
 - 🌱 I’m currently looking for Data Scientist/Machine Learning Internship.
 - 📫 Contacts: tjzhang@u.boisestate.edu
