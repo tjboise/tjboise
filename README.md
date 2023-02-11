@@ -64,6 +64,30 @@
 |--|--|--|
 | [DSPS22](https://github.com/TianjieZhang1993/DSPS22)  | Pavement disease target detection|[Second](https://dsps-1e998.web.app/data) | 
 | [DSPS23](https://github.com/TianjieZhang1993/DSPS23)  | Pavement disease target detection||
+</td>
+
+</tr> </table>
+
+
+<table>
+<tr><th> Projects </th> </tr>
+<tr>
+<td>
+
+
+|Title  | Technologies| Description|
+|--|--|--|
+| [MovieAnalysis](https://github.com/TianjieZhang1993/MovieAnalysis)  | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![SciPy](https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy) | A final project in CS533 to analysis the movie data from Movielens, IMDB and TMDB|
+| [CE497/597](https://github.com/TianjieZhang1993/CE497597)  | ![YOLOV5](https://img.shields.io/badge/YOLOV5-black?style=flat-square&logo=tensorflow) |A tutorial for CE students to explore the deep learning algorithm|
+</td><td>
+
+|Title | Description|Rank| 
+|--|--|--|
+| [DSPS22](https://github.com/TianjieZhang1993/DSPS22)  | Pavement disease target detection|[Second](https://dsps-1e998.web.app/data) | 
+| [DSPS23](https://github.com/TianjieZhang1993/DSPS23)  | Pavement disease target detection||
+</td>
+
+</tr> </table>
 
     
 <!-- | [3D Semantic Segmentation](https://github.com/drkostas/3D-Semantic-Segmentation) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/3D-Semantic-Segmentation?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv)|
@@ -76,12 +100,11 @@
 | [Vanilla Numpy CNN](https://github.com/drkostas/Numpy-CNN) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Numpy-CNN?style=flat-square&labelColor=black"/> | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy)|
 | [Vanilla Numpy NN](https://github.com/drkostas/Numpy-NeuralNet-1) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Numpy-NeuralNet-1?style=flat-square&labelColor=black"/> | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy)| -->
 
-    
+   
 
-</td>
 
-</tr> </table>
-    <!-- 
+
+<!-- 
 <table>
 <tr><th>Bots </th><th>Misc Projects </th></tr>
 <tr><td>
@@ -102,7 +125,7 @@
 
 </td> 
     
-    </tr> </table>-->
+</tr> </table>-->
 
 <!-- <details>
 <summary>📈 Stats</summary>
