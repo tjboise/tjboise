@@ -4,7 +4,7 @@
 
 <br/>
 
-<a href="https://tianjiezhang1993.github.io/resume/">
+<a href="https://tjboise.github.io/resume/">
     <img src="https://img.shields.io/badge/Website-personal-red?style=flat-square">
 </a>  
 <!-- <a href="https://gkos.tech/Resume.pdf">
