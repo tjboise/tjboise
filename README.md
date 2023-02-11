@@ -78,7 +78,7 @@
 |Title  | Technologies| Description|
 |--|--|--|
 | [MovieAnalysis](https://github.com/TianjieZhang1993/MovieAnalysis)  | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![SciPy](https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy) | A final project in CS533 to analysis the movie data from Movielens, IMDB and TMDB|
-| [CE497/597](https://github.com/TianjieZhang1993/CE497597)  | ![YOLOV5](https://img.shields.io/badge/YOLOV5-black?style=flat-square&logo=tensorflow) |A tutorial for CE students to explore the deep learning algorithm|
+| [CE497/597](https://github.com/TianjieZhang1993/CE497597)  | ![YOLOV5](https://img.shields.io/badge/YOLOV5-black?style=flat-square&logo=yolov5) |A tutorial for CE students to explore the deep learning algorithm|
 </td>
 
 </tr> </table>
