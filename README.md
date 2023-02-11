@@ -46,10 +46,12 @@
 
 * 💻 Currently working on Semantic Segmentation, Domain Adaptation, and Remote Sensing.
 
+<!--
 ### 🖥️ Open-Source Projects
 <table>
 <tr><th>Machine Learning </th><th>PyPi Packages</th></tr>
 <tr><td>
+
 
 |Title | Stars | Technologies|
 |--|--|--|
@@ -116,3 +118,4 @@ Currently Coding & Listening to:
 </details>
 
 
+-->
