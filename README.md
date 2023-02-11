@@ -49,7 +49,7 @@
 
 ### 🖥️ Open-Source Projects
 <table>
-<tr><th> Deep Learning </th><th> Competition </th> </tr>
+<tr><th> Research </th><th> Competition </th> </tr>
 <tr>
 <td>
 
