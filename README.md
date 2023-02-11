@@ -45,7 +45,7 @@
 
 * 💻 Currently working on Semantic Segmentation, Physics-informed neural network, Rheology
 
-
+</p>
 
 ### 🖥️ Open-Source Projects
 <table>
@@ -57,6 +57,8 @@
 |Title  | Technologies|
 |--|--|
 | [APCGAN+AttuNet](https://github.com/TianjieZhang1993/APCGAN-AttuNet)  | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv)|
+
+| [RheologyNet](https://github.com/TianjieZhang1993/RheologyNet)  | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv)|
     
     
 <!-- | [3D Semantic Segmentation](https://github.com/drkostas/3D-Semantic-Segmentation) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/3D-Semantic-Segmentation?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv)|
@@ -115,4 +117,4 @@ Currently Coding & Listening to:
 
 </details> -->
 
-</p>
+
