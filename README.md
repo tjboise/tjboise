@@ -4,8 +4,8 @@
 
 <br/>
 
-<a href="https://gkos.tech">
-    <img src="https://img.shields.io/badge/Website-gkos.tech-red?style=flat-square">
+<a href="[https://gkos.tech](https://tianjiezhang1993.github.io/resume/)">
+    <img src="https://img.shields.io/badge/Website-personal-red?style=flat-square">
 </a>  
 <!-- <a href="https://gkos.tech/Resume.pdf">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
@@ -37,13 +37,13 @@
 
 </p>
 
-* 📖 Pursuing PhD in Data Science & Engineering @ [The University of Tennessee](https://bredesencenter.utk.edu/the-data-science-and-engineering-phd/). 
+* 📖 Pursuing PhD in Data Science & Engineering @ [Boise State University](https://www.boisestate.edu/). 
 
-* 🎓 Conducting research on **AI** and **Computer Vision** @ [the AICIP Lab](https://aicip.github.io/research.htm).
+* 🎓 Conducting research on **AI** and **Material Simulation**.
 
 * 💡 Open to collaborating on projects and innovative ideas. 
 
-* 💻 Currently working on Semantic Segmentation, Domain Adaptation, and Remote Sensing.
+* 💻 Currently working on Semantic Segmentation, Physics-informed neural network, Rheology
 
 
 
