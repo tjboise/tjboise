@@ -35,7 +35,7 @@
     <img src="https://github-stats-alpha.vercel.app/api?username=TianjieZhang1993&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
 
-</p>
+
 
 * 📖 Pursuing PhD in Data Science & Engineering @ [Boise State University](https://www.boisestate.edu/). 
 
@@ -115,4 +115,4 @@ Currently Coding & Listening to:
 
 </details> -->
 
-
+</p>
