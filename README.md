@@ -59,10 +59,10 @@
 | [APCGAN+AttuNet](https://github.com/TianjieZhang1993/APCGAN-AttuNet)  | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) | [IEEE-T-ITS](https://ieeexplore.ieee.org/abstract/document/10021216)||
 | [RheologyNet](https://github.com/TianjieZhang1993/RheologyNet)  | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) ![Deepxde](https://img.shields.io/badge/Deepxde-black?style=flat-square&logo=deepxde)|link||
 | [Damage Density](https://github.com/tjboise/Damage_Density)  | ![Matlab](https://img.shields.io/badge/Matlab-black?style=flat-square&logo=matlab)  | [Infrastructures](https://www.mdpi.com/2412-3811/7/4/55)||
-| [DSPS22](https://github.com/TianjieZhang1993/DSPS22)  | Pavement disease target detection|[Second](https://dsps-1e998.web.app/data) | |
-| [DSPS23](https://github.com/TianjieZhang1993/DSPS23)  | Pavement disease target detection|||
-| [MovieAnalysis](https://github.com/TianjieZhang1993/MovieAnalysis)  | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![SciPy](https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy) | A final project in CS533 to analysis the movie data from Movielens, IMDB and TMDB||
-| [CE497/597](https://github.com/TianjieZhang1993/CE497597)  | ![YOLOV5](https://img.shields.io/badge/YOLOV5-black?style=flat-square&logo=yolov5) |A tutorial for CE students to explore the deep learning algorithm||
+| [DSPS22](https://github.com/TianjieZhang1993/DSPS22)  | ![YOLOV5](https://img.shields.io/badge/YOLOV5-black?style=flat-square&logo=yolov5) ![GAN](https://img.shields.io/badge/GAN-red?style=flat-square&logo=GAN)|[Second](https://dsps-1e998.web.app/data) | |
+| [DSPS23](https://github.com/TianjieZhang1993/DSPS23)  |![YOLOV5](https://img.shields.io/badge/YOLOV5-black?style=flat-square&logo=yolov5) ![wGAN](https://img.shields.io/badge/wGAN-red?style=flat-square&logo=wGAN)|||
+| [MovieAnalysis](https://github.com/TianjieZhang1993/MovieAnalysis)  | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![SciPy](https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy) | |A final project in CS533 to analysis the movie data from Movielens, IMDB and TMDB|
+| [CE497/597](https://github.com/TianjieZhang1993/CE497597)  | ![YOLOV5](https://img.shields.io/badge/YOLOV5-black?style=flat-square&logo=yolov5) ||A tutorial for CE students to explore the deep learning algorithm|
     
   
     
