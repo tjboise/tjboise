@@ -56,6 +56,7 @@
 
 |Year|Title  | Technologies| Paper|comment|
 |--|--|--|--|--|
+|2023| LTPP Student Competiiton  | ![LSTM](https://img.shields.io/badge/LSTM-black?style=flat-square&logo=Pytorch)    | ||
 |2023| ECSNet  | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)   | IEEE-T-ITS||
 |2023| [APCGAN+AttuNet](https://github.com/TianjieZhang1993/APCGAN-AttuNet)  | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) | [IEEE-T-ITS](https://ieeexplore.ieee.org/abstract/document/10021216)|Research|
 |2023| [RheologyNet](https://github.com/TianjieZhang1993/RheologyNet)  | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) ![Deepxde](https://img.shields.io/badge/Deepxde-black?style=flat-square&logo=deepxde)|[CCR](https://www.sciencedirect.com/science/article/pii/S0008884623000698)|Thesis topic|
