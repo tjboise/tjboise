@@ -57,7 +57,7 @@
 |Time|Title  | Technologies| Paper|comment|
 |--|--|--|--|--|
 |2023| LTPP Student Competiiton  | ![LSTM](https://img.shields.io/badge/LSTM-black?style=flat-square&logo=Pytorch)    | ||
-|08/23| ECSNet  | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)   | IEEE-T-ITS||
+|08/23| ECSNet  | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)   | [IEEE-T-ITS](https://ieeexplore.ieee.org/abstract/document/10214472?casa_token=0mQYA0C6K90AAAAA:41dpgx7_8SgEILblk2PGABIPdrd6EMMZhjWOLUAwPwX0n0s_I5aiT4g0N0fHAAzZrsurYJtjx_c)||
 |2023| [APCGAN+AttuNet](https://github.com/TianjieZhang1993/APCGAN-AttuNet)  | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) | [IEEE-T-ITS](https://ieeexplore.ieee.org/abstract/document/10021216)|Research|
 |06/23| [RheologyNet](https://github.com/TianjieZhang1993/RheologyNet)  | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) ![Deepxde](https://img.shields.io/badge/Deepxde-black?style=flat-square&logo=deepxde)|[CCR](https://www.sciencedirect.com/science/article/pii/S0008884623000698)|Thesis topic|
 |03/23| [DSPS23](https://github.com/TianjieZhang1993/DSPS23)  |![YOLOV5](https://img.shields.io/badge/YOLOV5-black?style=flat-square&logo=yolov5) ![wGAN](https://img.shields.io/badge/wGAN-red?style=flat-square&logo=wGAN)||FHWA Competition|
