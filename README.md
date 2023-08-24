@@ -54,7 +54,7 @@
 <td>
 
 
-|Time|Title  | Technologies| Paper|comment|
+|Time|Repo  | Technologies| Paper|comment|
 |--|--|--|--|--|
 |2023| LTPP Student Competiiton  | ![LSTM](https://img.shields.io/badge/LSTM-black?style=flat-square&logo=Pytorch)    | ||
 |08/23| ECSNet  | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)   | [IEEE-T-ITS](https://ieeexplore.ieee.org/abstract/document/10214472?casa_token=0mQYA0C6K90AAAAA:41dpgx7_8SgEILblk2PGABIPdrd6EMMZhjWOLUAwPwX0n0s_I5aiT4g0N0fHAAzZrsurYJtjx_c)||
