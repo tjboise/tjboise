@@ -54,17 +54,17 @@
 <td>
 
 
-|Time|Repo  | Technologies| Paper|comment|
-|--|--|--|--|--|
-|2023| LTPP Student Competiiton  | ![LSTM](https://img.shields.io/badge/LSTM-black?style=flat-square&logo=Pytorch)    | ||
-|08/23| [ECSNet](https://github.com/tjboise/ECSNet)  | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)   | [IEEE-T-ITS](https://ieeexplore.ieee.org/abstract/document/10214472?casa_token=0mQYA0C6K90AAAAA:41dpgx7_8SgEILblk2PGABIPdrd6EMMZhjWOLUAwPwX0n0s_I5aiT4g0N0fHAAzZrsurYJtjx_c)||
-|2023| [APCGAN+AttuNet](https://github.com/TianjieZhang1993/APCGAN-AttuNet)  | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) | [IEEE-T-ITS](https://ieeexplore.ieee.org/abstract/document/10021216)|Research|
-|06/23| [RheologyNet](https://github.com/TianjieZhang1993/RheologyNet)  | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) ![Deepxde](https://img.shields.io/badge/Deepxde-black?style=flat-square&logo=deepxde)|[CCR](https://www.sciencedirect.com/science/article/pii/S0008884623000698)|Thesis topic|
-|03/23| [DSPS23](https://github.com/TianjieZhang1993/DSPS23)  |![YOLOV5](https://img.shields.io/badge/YOLOV5-black?style=flat-square&logo=yolov5) ![wGAN](https://img.shields.io/badge/wGAN-red?style=flat-square&logo=wGAN)||FHWA Competition|
-|2023| [CE497/597](https://github.com/TianjieZhang1993/CE497597)  | ![YOLOV5](https://img.shields.io/badge/YOLOV5-black?style=flat-square&logo=yolov5) ||CE497/597 Teaching material|
-|03/23| [DSPS22](https://github.com/TianjieZhang1993/DSPS22)  | ![YOLOV5](https://img.shields.io/badge/YOLOV5-black?style=flat-square&logo=yolov5) ![GAN](https://img.shields.io/badge/GAN-red?style=flat-square&logo=GAN)|[arxiv](https://arxiv.org/pdf/2206.04874.pdf) | FHWA Competition|
-|2021| [Damage Density](https://github.com/tjboise/Damage_Density)  | ![Matlab](https://img.shields.io/badge/Matlab-black?style=flat-square&logo=matlab)  | [Infrastructures](https://www.mdpi.com/2412-3811/7/4/55)|IGEM Project|
-|12/21| [MovieAnalysis](https://github.com/TianjieZhang1993/MovieAnalysis)  | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![SciPy](https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy) | |CS533 Class project|
+|Repo  | Technologies| Paper|comment|
+|--|--|--|--|
+| LTPP Student Competiiton  | ![LSTM](https://img.shields.io/badge/LSTM-black?style=flat-square&logo=Pytorch)    | ||
+| [ECSNet](https://github.com/tjboise/ECSNet)  | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)   | [IEEE-T-ITS](https://ieeexplore.ieee.org/abstract/document/10214472?casa_token=0mQYA0C6K90AAAAA:41dpgx7_8SgEILblk2PGABIPdrd6EMMZhjWOLUAwPwX0n0s_I5aiT4g0N0fHAAzZrsurYJtjx_c)||
+| [APCGAN+AttuNet](https://github.com/TianjieZhang1993/APCGAN-AttuNet)  | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) | [IEEE-T-ITS](https://ieeexplore.ieee.org/abstract/document/10021216)|Research|
+| [RheologyNet](https://github.com/TianjieZhang1993/RheologyNet)  | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) ![Deepxde](https://img.shields.io/badge/Deepxde-black?style=flat-square&logo=deepxde)|[CCR](https://www.sciencedirect.com/science/article/pii/S0008884623000698)|Thesis topic|
+| [DSPS23](https://github.com/TianjieZhang1993/DSPS23)  |![YOLOV5](https://img.shields.io/badge/YOLOV5-black?style=flat-square&logo=yolov5) ![wGAN](https://img.shields.io/badge/wGAN-red?style=flat-square&logo=wGAN)||FHWA Competition|
+| [CE497/597](https://github.com/TianjieZhang1993/CE497597)  | ![YOLOV5](https://img.shields.io/badge/YOLOV5-black?style=flat-square&logo=yolov5) ||CE497/597 Teaching material|
+| [DSPS22](https://github.com/TianjieZhang1993/DSPS22)  | ![YOLOV5](https://img.shields.io/badge/YOLOV5-black?style=flat-square&logo=yolov5) ![GAN](https://img.shields.io/badge/GAN-red?style=flat-square&logo=GAN)|[arxiv](https://arxiv.org/pdf/2206.04874.pdf) | FHWA Competition|
+| [Damage Density](https://github.com/tjboise/Damage_Density)  | ![Matlab](https://img.shields.io/badge/Matlab-black?style=flat-square&logo=matlab)  | [Infrastructures](https://www.mdpi.com/2412-3811/7/4/55)|IGEM Project|
+| [MovieAnalysis](https://github.com/TianjieZhang1993/MovieAnalysis)  | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![SciPy](https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy) | |CS533 Class project|
     
   
     
