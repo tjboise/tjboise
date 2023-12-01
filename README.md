@@ -63,6 +63,7 @@
 | [DSPS23](https://github.com/TianjieZhang1993/DSPS23)  |![YOLOV5](https://img.shields.io/badge/YOLOV5-black?style=flat-square&logo=yolov5) ![wGAN](https://img.shields.io/badge/wGAN-red?style=flat-square&logo=wGAN)||FHWA Competition|
 | [CE497/597](https://github.com/TianjieZhang1993/CE497597)  | ![YOLOV5](https://img.shields.io/badge/YOLOV5-black?style=flat-square&logo=yolov5) ||CE497/597 Teaching material|
 | [DSPS22](https://github.com/TianjieZhang1993/DSPS22)  | ![YOLOV5](https://img.shields.io/badge/YOLOV5-black?style=flat-square&logo=yolov5) ![GAN](https://img.shields.io/badge/GAN-red?style=flat-square&logo=GAN)|[arxiv](https://arxiv.org/pdf/2206.04874.pdf) | FHWA Competition|
+| [RCCD](https://github.com/tjboise/RCCD)  |![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) |[KSCE](https://arxiv.org/pdf/2206.04874.pdf) | Benchmark study of different classiication algorithms in cracks|
 | [Damage Density](https://github.com/tjboise/Damage_Density)  | ![Matlab](https://img.shields.io/badge/Matlab-black?style=flat-square&logo=matlab)  | [Infrastructures](https://www.mdpi.com/2412-3811/7/4/55)|IGEM Project|
 | [MovieAnalysis](https://github.com/TianjieZhang1993/MovieAnalysis)  | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![SciPy](https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy) | |CS533 Class project|
     
