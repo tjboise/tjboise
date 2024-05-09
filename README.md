@@ -37,7 +37,7 @@
 
 
 
-* 📖 Pursuing PhD in Data Science & Engineering @ [Boise State University](https://www.boisestate.edu/). 
+* 📖 PhD in Computing (with emphysis in Data Science) @ [Boise State University](https://www.boisestate.edu/). 
 
 * 🎓 Conducting research on **AI** and **Material Simulation**.
 
