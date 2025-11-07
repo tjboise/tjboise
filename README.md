@@ -56,7 +56,7 @@
 
 |Repo  | Technologies| Paper|comment|
 |--|--|--|--|
-| [PoFormer](https://github.com/tjboise/PoFormer)  | ![Transformer](https://img.shields.io/badge/Transformer-black?style=flat-square&logo=Pytorch)    | [Sensors]([https://www.mdpi.com/2412-3811/10/1/10](https://www.mdpi.com/1424-8220/25/21/6756)) ||
+| [PoFormer](https://github.com/tjboise/PoFormer)  | ![Transformer](https://img.shields.io/badge/Transformer-black?style=flat-square&logo=Pytorch)    | [Sensors](https://www.mdpi.com/1424-8220/25/21/6756) ||
 | [RNN](https://github.com/tjboise/RNN)  | ![LSTM](https://img.shields.io/badge/LSTM-black?style=flat-square&logo=Pytorch)    | [Infrastructures](https://www.mdpi.com/2412-3811/10/1/10) |LTPP Student Competiiton|
 | [ECSNet](https://github.com/tjboise/ECSNet)  | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)   | [IEEE-T-ITS](https://ieeexplore.ieee.org/abstract/document/10214472?casa_token=0mQYA0C6K90AAAAA:41dpgx7_8SgEILblk2PGABIPdrd6EMMZhjWOLUAwPwX0n0s_I5aiT4g0N0fHAAzZrsurYJtjx_c)||
 | [APCGAN+AttuNet](https://github.com/TianjieZhang1993/APCGAN-AttuNet)  | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) | [IEEE-T-ITS](https://ieeexplore.ieee.org/abstract/document/10021216)|Research|
