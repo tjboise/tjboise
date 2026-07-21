@@ -43,7 +43,7 @@
 
 * 💡 Open to collaborating on projects and innovative ideas. 
 
-* 💻 Currently working on Semantic Segmentation, Physics-informed neural network, Rheology
+* 💻 Currently working on Large Language Model, Physics-informed neural network, image segmentation
 
 </p>
 
