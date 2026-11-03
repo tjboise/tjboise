@@ -47,110 +47,20 @@
 
 </p>
 
-### 🖥️ Open-Source Projects
-<table>
-<tr><th> Researches and Projects </th> </tr>
-<tr>
-<td>
 
 
-|Repo  | Technologies| Paper|comment|
-|--|--|--|--|
-| [PoFormer](https://github.com/tjboise/PoFormer)  | ![Transformer](https://img.shields.io/badge/Transformer-black?style=flat-square&logo=Pytorch)    | [Sensors](https://www.mdpi.com/1424-8220/25/21/6756) |This model can be used to segment the pothole in pavement surface.|
-| [PCINet](https://github.com/tjboise/PCINet)  | ![CNN](https://img.shields.io/badge/CNN-black?style=flat-square&logo=Pytorch)    | [CBM](https://www.sciencedirect.com/science/article/pii/S0950061825038383) |to predict the PCI value of road.|
-| [RNN](https://github.com/tjboise/RNN)  | ![LSTM](https://img.shields.io/badge/LSTM-black?style=flat-square&logo=Pytorch)    | [Infrastructures](https://www.mdpi.com/2412-3811/10/1/10) |LTPP Student Competiiton|
-| [ECSNet](https://github.com/tjboise/ECSNet)  | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch)   | [IEEE-T-ITS](https://ieeexplore.ieee.org/abstract/document/10214472?casa_token=0mQYA0C6K90AAAAA:41dpgx7_8SgEILblk2PGABIPdrd6EMMZhjWOLUAwPwX0n0s_I5aiT4g0N0fHAAzZrsurYJtjx_c)||
-| [APCGAN+AttuNet](https://github.com/TianjieZhang1993/APCGAN-AttuNet)  | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) | [IEEE-T-ITS](https://ieeexplore.ieee.org/abstract/document/10021216)|Research|
-| [RheologyNet](https://github.com/TianjieZhang1993/RheologyNet)  | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv) ![Deepxde](https://img.shields.io/badge/Deepxde-black?style=flat-square&logo=deepxde)|[CCR](https://www.sciencedirect.com/science/article/pii/S0008884623000698)|Thesis topic|
-| [DSPS23](https://github.com/TianjieZhang1993/DSPS23)  |![YOLOV5](https://img.shields.io/badge/YOLOV5-black?style=flat-square&logo=yolov5) ![wGAN](https://img.shields.io/badge/wGAN-red?style=flat-square&logo=wGAN)|[Automation in Construction](https://www.sciencedirect.com/science/article/pii/S0926580524000700) |FHWA Competition|
-| [CE497/597](https://github.com/TianjieZhang1993/CE497597)  | ![YOLOV5](https://img.shields.io/badge/YOLOV5-black?style=flat-square&logo=yolov5) ||CE497/597 Teaching material|
-| [DSPS22](https://github.com/TianjieZhang1993/DSPS22)  | ![YOLOV5](https://img.shields.io/badge/YOLOV5-black?style=flat-square&logo=yolov5) ![GAN](https://img.shields.io/badge/GAN-red?style=flat-square&logo=GAN)|[arxiv](https://arxiv.org/pdf/2206.04874.pdf) | FHWA Competition|
-| [RCCD](https://github.com/tjboise/RCCD)  |![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) |[KSCE](https://link.springer.com/article/10.1007/s12205-024-1066-8) | Benchmark study of different classiication algorithms in cracks|
-| [Damage Density](https://github.com/tjboise/Damage_Density)  | ![Matlab](https://img.shields.io/badge/Matlab-black?style=flat-square&logo=matlab)  | [Infrastructures](https://www.mdpi.com/2412-3811/7/4/55)|IGEM Project|
-| [MovieAnalysis](https://github.com/TianjieZhang1993/MovieAnalysis)  | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![SciPy](https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy) | |CS533 Class project|
-    
-  
-    
-</td>
-<!--     <td>
-
-|Title | Description|Rank| 
-|--|--|--|
-| [DSPS22](https://github.com/TianjieZhang1993/DSPS22)  | Pavement disease target detection|[Second](https://dsps-1e998.web.app/data) | 
-| [DSPS23](https://github.com/TianjieZhang1993/DSPS23)  | Pavement disease target detection||
-</td> -->
-
-</tr> </table>
-
-
-<!-- <table>
-<tr><th> Projects </th> </tr>
-<tr>
-<td>
-
-
-|Title  | Technologies| Description|
-|--|--|--|
-| [MovieAnalysis](https://github.com/TianjieZhang1993/MovieAnalysis)  | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![SciPy](https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy) | A final project in CS533 to analysis the movie data from Movielens, IMDB and TMDB|
-| [CE497/597](https://github.com/TianjieZhang1993/CE497597)  | ![YOLOV5](https://img.shields.io/badge/YOLOV5-black?style=flat-square&logo=yolov5) |A tutorial for CE students to explore the deep learning algorithm|
-</td>
-
-</tr> </table> -->
 
     
-<!-- | [3D Semantic Segmentation](https://github.com/drkostas/3D-Semantic-Segmentation) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/3D-Semantic-Segmentation?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv)|
-| [Bert Question-Answering](https://github.com/drkostas/Bert-Question-Answering) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Bert-Question-Answering?style=flat-square&labelColor=black"/> | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![Spacy](https://img.shields.io/badge/Spacy-black?style=flat-square&logo=spacy)|
-| [Accident Severity Pred.](https://github.com/drkostas/accident-severity-prediction) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/accident-severity-prediction?style=flat-square&labelColor=black"/> | ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) ![SciPy](https://img.shields.io/badge/SciPy-black?style=flat-square&logo=scipy)|
-| [Hybrid Girvan Newman](https://github.com/drkostas/HGN) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/HGN?style=flat-square&labelColor=black"/> | [![HGNPub](https://img.shields.io/badge/Published-black?style=flat-square&logo=googlescholar)](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=b___QQ8AAAAJ&authuser=1&citation_for_view=b___QQ8AAAAJ:u5HHmVD_uO8C) ![PySpark](https://img.shields.io/badge/Spark-black?style=flat-square&logo=apachespark) <br> ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql)|
-| [COVID19 Vacc. Pred.](https://github.com/drkostas/covid19-vaccinations-predict) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/covid19-vaccinations-predict?style=flat-square&labelColor=black"/> | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)|
-| [Instagram Likes Pred.](https://github.com/drkostas/Insta-Likes-Predict) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Insta-Likes-Predict?style=flat-square&labelColor=black"/> | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv)|
-| [RL Value Iteration](https://github.com/drkostas/RL-Value-Iteration) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/RL-Value-Iteration?style=flat-square&labelColor=black"/> | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy)|
-| [Vanilla Numpy CNN](https://github.com/drkostas/Numpy-CNN) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Numpy-CNN?style=flat-square&labelColor=black"/> | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy)|
-| [Vanilla Numpy NN](https://github.com/drkostas/Numpy-NeuralNet-1) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Numpy-NeuralNet-1?style=flat-square&labelColor=black"/> | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy)| -->
+
 
    
 
 
 
-<!-- 
-<table>
-<tr><th>Bots </th><th>Misc Projects </th></tr>
-<tr><td>
-
-|Title | Stars | Technologies|
-|--|--|--|
-| [Youtube Comment Bot](https://github.com/drkostas/Youtube-FirstCommentBot) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Youtube-FirstCommentBot?style=flat-square&labelColor=black"/> | ![YT](https://img.shields.io/badge/API-black?style=flat-square&logo=youtube) ![Gmail](https://img.shields.io/badge/API-black?style=flat-square&logo=gmail) ![Dropbox](https://img.shields.io/badge/API-black?style=flat-square&logo=dropbox)<br> ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql) ![RDS](https://img.shields.io/badge/RDS-black?style=flat-square&logo=amazonaws)<br> ![CircleCI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) ![Heroku](https://img.shields.io/badge/Heroku-black?style=flat-square&logo=heroku) |
-| [Job Application Bot](https://github.com/drkostas/JobApplicationBot) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/JobApplicationBot?style=flat-square&labelColor=black"/> | ![Gmail](https://img.shields.io/badge/API-black?style=flat-square&logo=gmail) ![Dropbox](https://img.shields.io/badge/API-black?style=flat-square&logo=dropbox)<br> ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql) ![RDS](https://img.shields.io/badge/RDS-black?style=flat-square&logo=amazonaws)<br> ![CircleCI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) ![Heroku](https://img.shields.io/badge/Heroku-black?style=flat-square&logo=heroku) |
-
-</td><td> -->
-
-<!-- |Title | Stars | Technologies|
-|--|--|--|
-| [Spotify Button Presser](https://github.com/drkostas/SpotiClick) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/SpotiClick?style=flat-square&labelColor=black"/> | ![Raspberry](https://img.shields.io/badge/Raspberry-black?style=flat-square&logo=Raspberry) ![Spotify](https://img.shields.io/badge/API-black?style=flat-square&logo=spotify) <br> ![Switchbot](https://img.shields.io/badge/SwitchBot-black?style=flat-square&logo=arduino)|
-| [Cross The Floor](https://github.com/drkostas/Cross-The-Floor) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Cross-The-Floor?style=flat-square&labelColor=black"/> | ![Sankey Diagram](https://img.shields.io/badge/Sankey-black?style=flat-square&logo=plotly) <br> ![Wiki](https://img.shields.io/badge/Scrapper-black?style=flat-square&logo=wikipedia)|
-| [2D Shooter Game](https://github.com/drkostas/shooter-game-with-p5js) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/shooter-game-with-p5js?style=flat-square&labelColor=black"/> | ![p5](https://img.shields.io/badge/P5.js-black?style=flat-square&logo=p5dotjs)|
-| [Quantum Mechanics Quiz App](https://github.com/drkostas/Quantum-Mechanics-Quiz-App) | <img alt="Stars" src="https://img.shields.io/github/stars/drkostas/Quantum-Mechanics-Quiz-App?style=flat-square&labelColor=black"/> | ![android](https://img.shields.io/badge/App-black?style=flat-square&logo=android)|
-
-</td> 
-    
-</tr> </table>-->
-
-<!-- <details>
-<summary>📈 Stats</summary>
-<br>
-My Github Stats
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=drkostas&theme=dracula) 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=drkostas&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=drkostas&theme=dracula)
 
 
-<br>
-Currently Coding & Listening to:
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11159336621&cover_image=true&theme=novatorem&show_offline=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/11159336621)
 
-</details> -->
+
 
 
